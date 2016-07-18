@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Skeleotr", "Skeleotr\Skeleotr.csproj", "{768A93CA-27F4-4557-AC52-64E0874BAA74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestureRecognizer", "GestureRecognizer\GestureRecognizer.csproj", "{29D18573-C70F-45D4-859C-D0A2A494E874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{768A93CA-27F4-4557-AC52-64E0874BAA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768A93CA-27F4-4557-AC52-64E0874BAA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768A93CA-27F4-4557-AC52-64E0874BAA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768A93CA-27F4-4557-AC52-64E0874BAA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D18573-C70F-45D4-859C-D0A2A494E874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D18573-C70F-45D4-859C-D0A2A494E874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D18573-C70F-45D4-859C-D0A2A494E874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D18573-C70F-45D4-859C-D0A2A494E874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

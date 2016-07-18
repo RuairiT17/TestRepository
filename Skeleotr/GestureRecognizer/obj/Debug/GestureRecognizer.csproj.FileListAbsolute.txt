@@ -1,0 +1,7 @@
+C:\Users\Ruairi\Documents\Visual Studio 2015\Projects\Skeleotr\GestureRecognizer\bin\Debug\GestureRecognizer.dll
+C:\Users\Ruairi\Documents\Visual Studio 2015\Projects\Skeleotr\GestureRecognizer\bin\Debug\GestureRecognizer.pdb
+C:\Users\Ruairi\Documents\Visual Studio 2015\Projects\Skeleotr\GestureRecognizer\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Ruairi\Documents\Visual Studio 2015\Projects\Skeleotr\GestureRecognizer\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Ruairi\Documents\Visual Studio 2015\Projects\Skeleotr\GestureRecognizer\obj\Debug\GestureRecognizer.dll
+C:\Users\Ruairi\Documents\Visual Studio 2015\Projects\Skeleotr\GestureRecognizer\obj\Debug\GestureRecognizer.pdb
+C:\Users\Ruairi\Documents\Visual Studio 2015\Projects\Skeleotr\GestureRecognizer\obj\Debug\GestureRecognizer.csprojResolveAssemblyReference.cache
